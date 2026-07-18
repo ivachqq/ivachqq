@@ -1,10 +1,10 @@
 <!--
   Profile README · ivachqq
-  Visual language: ink + ember (dark cards, warm accent, no blue clone look)
+  Visual language: ink + ember
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a120b,50:3d2314,100:1a120b&height=180&section=header&text=Ivan&fontSize=54&fontColor=e8c39e&fontAlignY=35&desc=%40ivachqq%20%C2%B7%20Java%20Backend%20Learner%20%C2%B7%20CS%20Student&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a120b,50:3d2314,100:1a120b&height=180&section=header&text=Ivan&fontSize=54&fontColor=e8c39e&fontAlignY=35&desc=%40ivachqq%20%C2%B7%20Java%20Backend%20%C2%B7%20CompSci%20Undergrad&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  STATUS  ·  Learning Java for backend                       │
-│          ·  Student at Tomsk State University               │
-│          ·  Building projects step by step                  │
-│          ·  Open to internship & junior roles               │
+│  NOW     ·  Deep into Java backend                          │
+│          ·  CompSci undergrad @ Tomsk State University      │
+│          ·  I'm building my own pet projects                │
+│          ·  Looking for an entry-level backend seat         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -40,19 +40,23 @@
 <tr>
 <td width="100%">
 
-I'm learning Java for backend development and studying computer science in Tomsk.
-I like turning ideas into working projects — right now I'm strengthening core Java,
-OOP and practical coding skills, and backing them up with real repositories.
-I also explore mobile (Flutter/Dart), C# and game development with Godot.
+Java is my main weapon. I write backends that don’t fall apart the moment you
+touch them — clean OOP, solid structure, code you can actually read a month later.
+Collections, concurrency basics, APIs — I grind this stuff until it clicks, then
+ship it in real repos instead of leaving it in Notion notes.
+
+I treat every project like a chance to level up: design the domain, break it into
+classes, make it run. Side missions? Flutter/Dart, C#, Godot — but the home base
+is Java backend, and that’s where I’m going all-in.
 
 <br/>
 
 | | |
 | :--- | :--- |
-| **focus** | Focused on **Java backend** development |
-| **now** | Currently learning **Spring Boot, SQL databases and REST APIs** |
-| **open to** | Open to **internship / junior** opportunities |
-| **principle** | I care about code that's readable today and maintainable tomorrow |
+| **lane** | All-in on **Java backend** |
+| **grinding** | **Spring Boot · SQL · REST APIs** |
+| **looking for** | First **junior / intern** backend role |
+| **standard** | Readable code > clever one-liners |
 
 </td>
 </tr>
@@ -69,14 +73,14 @@ I also explore mobile (Flutter/Dart), C# and game development with Godot.
 </p>
 
 <details>
-<summary><b>languages · tools · currently learning</b></summary>
+<summary><b>breakdown</b></summary>
 <br/>
 
-| Layer | What I use |
-| :---- | :--------- |
+| Layer | Arsenal |
+| :---- | :------ |
 | **Languages** | Java · C# · Dart · GDScript |
-| **Tools & environment** | IntelliJ IDEA · Git · GitHub · Godot |
-| **Currently learning** | Spring Boot · PostgreSQL · Docker |
+| **Daily drivers** | IntelliJ IDEA · Git · GitHub · Godot |
+| **Leveling up** | Spring Boot · PostgreSQL · Docker |
 
 </details>
 
@@ -90,31 +94,31 @@ I also explore mobile (Flutter/Dart), C# and game development with Godot.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ivachqq/java-learning">java-learning</a></h3>
-      <p>Practice repo for Java backend — OOP, collections and everyday exercises.</p>
+      <p>My Java dojo — OOP drills, collections, and backend fundamentals I actually use.</p>
       <code>Java</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ivachqq/coffeOOP_java">coffeOOP_java</a></h3>
-      <p>Coffee-shop style OOP practice — classes, inheritance and object design.</p>
+      <p>Coffee-shop domain modeled in OOP: classes, inheritance, clean object design.</p>
       <code>Java</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ivachqq/TSU_CampusMap">TSU_CampusMap</a></h3>
-      <p>Campus map app for Tomsk State University.</p>
+      <p>Campus navigation app for TSU — maps, routes, student-life practicality.</p>
       <code>Dart</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ivachqq/Nyctophobia">Nyctophobia</a></h3>
-      <p>Horror / atmosphere game project built with Godot.</p>
+      <p>Atmosphere-heavy horror game in Godot — systems, scenes, vibe.</p>
       <code>GDScript</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/ivachqq/PizzaLaba1">PizzaLaba1</a></h3>
-      <p>University lab — pizza ordering / OOP practice in C#.</p>
+      <p>Uni lab: pizza-order flow built in C# to lock in OOP muscle memory.</p>
       <code>C#</code>
     </td>
   </tr>
@@ -148,7 +152,7 @@ I also explore mobile (Flutter/Dart), C# and game development with Godot.
 </p>
 
 <p align="center">
-  <sub>Made in Tomsk · Java is the craft.</sub>
+  <sub>Built in Tomsk · Backend is the lane.</sub>
 </p>
 
 <p align="center">
