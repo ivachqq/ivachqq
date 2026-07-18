@@ -40,14 +40,15 @@
 <tr>
 <td width="100%">
 
-Java is my main weapon. I write backends that don’t fall apart the moment you
-touch them — clean OOP, solid structure, code you can actually read a month later.
-Collections, concurrency basics, APIs — I grind this stuff until it clicks, then
-ship it in real repos instead of leaving it in Notion notes.
+I’m all-in on Java backend. Not because it sounds cool on a resume — because I
+want to get genuinely good at it. Every day I dig deeper into OOP, collections,
+APIs and the stuff that actually makes a backend work. I don’t wait for “perfect
+conditions”: I open the IDE, break something, fix it, push, repeat.
 
-I treat every project like a chance to level up: design the domain, break it into
-classes, make it run. Side missions? Flutter/Dart, C#, Godot — but the home base
-is Java backend, and that’s where I’m going all-in.
+Motivation isn’t a mood for me — it’s a habit. I want to grow fast, write cleaner
+code than yesterday, and earn my seat in this field by shipping, not by talking.
+If you want to see what else I’m building on the side, check my other repositories
+below — they’re there. But the main road is Java backend, and I’m not getting off it.
 
 <br/>
 
